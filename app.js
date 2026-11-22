@@ -8,7 +8,7 @@ async function init(){
  document.getElementById("admin").onclick=()=>{if(admin){admin=false;labelMode=false;setAdminUI();render()}else document.getElementById("adminDialog").showModal()};
  document.getElementById("loginForm").onsubmit=login;
  document.getElementById("logout").onclick=logout;
- document.getElementById("labelMode").onclick=()=>{if(!admin)return;labelMode=!labelMode;document.getElementById("labelMode").textContent=labelMode?"Label mode: ON (click map)":"Add Map Label"};
+ document.getElementById("labelMode").onclick=()=>{if(!admin)return;labelMode=!labelMode;document.getElementById("labelMode").textContent=labelMode?"Label mode: ON (click map)":"Add Map Label"};}
  document.getElementById("export").onclick=exportBackup;
  document.getElementById("import").onchange=importBackup;
  document.getElementById("cancel").onclick=()=>document.getElementById("propertyDialog").close();document.getElementById("form").onsubmit=saveForm;document.getElementById("delete").onclick=deleteProp;
