@@ -1,0 +1,222 @@
+[
+  {
+    "id": "seed0",
+    "name": "3655 Wild Oats Drive",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed1",
+    "name": "2044 North Conker Avenue",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed2",
+    "name": "2045 North Conker Avenue",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed3",
+    "name": "2862 Hillcrest Avenue",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed4",
+    "name": "2868 Hillcrest Avenue",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed5",
+    "name": "2874 Hillcrest Avenue",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed6",
+    "name": "2677 Whispymound Drive",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed7",
+    "name": "2133 Mad Wayne Thunder Drive",
+    "type": "House",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed8",
+    "name": "Integrity Way Apartments",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed9",
+    "name": "Tinsel Towers",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed10",
+    "name": "Del Perro Heights",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed11",
+    "name": "Eclipse Towers",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed12",
+    "name": "Richards Majestic",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed13",
+    "name": "South Rockford Drive Apartments",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed14",
+    "name": "Morningwood Blvd Apartments",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed15",
+    "name": "Fantastic Plaza",
+    "type": "Apartment",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed16",
+    "name": "Trevor's Trailer",
+    "type": "Story",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed17",
+    "name": "Madrazo Ranch",
+    "type": "Story",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed18",
+    "name": "Lester's House",
+    "type": "Story",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": "seed19",
+    "name": "Diamond Casino Penthouse",
+    "type": "Story",
+    "status": "available",
+    "owner": "",
+    "notes": "",
+    "price": "",
+    "lat": 0,
+    "lng": 0
+  }
+]
